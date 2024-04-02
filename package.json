@@ -1,0 +1,19 @@
+{
+  "name": "websender-botu",
+  "version": "1.0.0",
+  "description": "Minecraft sunucunuza websender bağlantısı yapmanızı sağlayan bir discord botudur. Minecraft sunucunuza komut, mesaj ve duyuru gönderebilirsiniz!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "net": "^1.0.2"
+  }
+}
